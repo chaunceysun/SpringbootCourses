@@ -1,0 +1,5 @@
+# Project exclude paths
+/02-warproject/target/
+/04-errorpage/target/
+/05-multienv/target/
+/05-multienv-02/target/
